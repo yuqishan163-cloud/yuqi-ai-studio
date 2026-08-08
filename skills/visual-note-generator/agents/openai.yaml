@@ -1,0 +1,4 @@
+interface:
+  display_name: "Visual Note Generator"
+  short_description: "把任意内容提炼为清晰、统一、可收藏传播的中文手绘知识卡片"
+  default_prompt: "使用 $visual-note-generator 把我提供的内容制作成中文手绘知识卡片。"
